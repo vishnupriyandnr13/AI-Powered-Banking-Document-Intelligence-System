@@ -1,5 +1,4 @@
 # AI-Powered Banking Document Intelligence System
-Overview
 
 This project implements an enterprise-style Retrieval-Augmented Generation (RAG) system capable of understanding and answering questions from:
 
@@ -86,4 +85,5 @@ Which RBI guideline discusses customer due diligence?
 Summarize the uploaded payment screenshots.
 
 What is the average monthly balance?
+
 
